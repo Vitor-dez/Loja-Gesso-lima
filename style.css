@@ -234,3 +234,57 @@
     text-decoration: none;
     color: #ffff;
 }
+
+
+
+
+
+@media screen and (max-width: 762px) {
+  
+
+.container1{
+   height: 100%;
+   gap: 50px;
+ display: grid;
+ margin-bottom: 50px;
+
+    
+}
+
+
+.container1 .anuncio{
+   
+    text-align: center;
+}
+
+
+.box-2{
+    display: grid;
+    margin-bottom: 50px;
+    gap: 50px;
+}
+
+
+.box-3{
+height: 100%;
+}
+
+
+.mini-box2{
+    width: 100%;
+    display: grid;
+    gap: 50px;
+}
+
+
+
+
+.box-4{
+
+   margin-top: 50px;
+   margin-bottom: 80px;
+}
+
+
+
+}
